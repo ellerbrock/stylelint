@@ -39,7 +39,7 @@
     "cosmiconfig": "^2.0.0",
     "doiuse": "^3.0.0",
     "execall": "^1.0.0",
-    "get-stdin": "^5.0.0",
+    "get-stdin": "^5.0.1",
     "globby": "^6.0.0",
     "globjoin": "^0.1.4",
     "html-tags": "^1.1.1",
