@@ -35,7 +35,7 @@
     "autoprefixer": "^7.0.0",
     "balanced-match": "^0.4.0",
     "chalk": "^1.1.1",
-    "colorguard": "^1.2.0",
+    "colorguard": "^1.2.1",
     "cosmiconfig": "^2.0.0",
     "doiuse": "^3.0.0",
     "execall": "^1.0.0",
