@@ -83,7 +83,7 @@
     "flow-bin": "^0.34.0",
     "npm-run-all": "^4.0.1",
     "npmpub": "^3.0.1",
-    "nyc": "^8.1.0",
+    "nyc": "^11.4.1",
     "postcss-import": "^9.0.0",
     "remark-cli": "^2.0.0",
     "remark-preset-lint-consistent": "^1.0.0",
