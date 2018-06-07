@@ -82,7 +82,7 @@
     "eslint-plugin-flowtype": "^2.21.0",
     "flow-bin": "^0.34.0",
     "npm-run-all": "^4.0.1",
-    "npmpub": "^3.0.1",
+    "npmpub": "^4.0.0",
     "nyc": "^8.1.0",
     "postcss-import": "^9.0.0",
     "remark-cli": "^2.0.0",
