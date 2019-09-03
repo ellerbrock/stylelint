@@ -79,7 +79,7 @@
     "coveralls": "^2.11.9",
     "eslint": "~3.17.0",
     "eslint-config-stylelint": "^5.0.0",
-    "eslint-plugin-flowtype": "^2.21.0",
+    "eslint-plugin-flowtype": "^4.3.0",
     "flow-bin": "^0.34.0",
     "npm-run-all": "^4.0.1",
     "npmpub": "^3.0.1",
